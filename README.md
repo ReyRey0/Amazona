@@ -6,7 +6,7 @@
 ## Descrição do Projeto
 <p align="center"> para a execução deste projeto será necessária os seguintes programas </p>
 
-### Linguagens
+### Funcionalidades
 
 - [x] Cadastro de produtos
 - [x] Editar dados do banco de dados
