@@ -1,0 +1,71 @@
+#box-search{
+	display: flex;
+	justify-content: center;
+}
+
+#main-title {
+font-family: courier,arial,helvetica;
+  text-align: center;
+  font-size:80px;
+  color:#CD5C5C;
+}
+table{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th{
+  border: 3px solid #F08080;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){
+  background-color: #F08080;
+}
+
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-color: #DCDCDC;
+}
+
+.grid{
+	 margin: 1px 380px;
+}
+
+.btnIndex {
+  background-color: #F08080;
+  border: 2px solid White;
+  color: white;
+  width: 170px;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  margin: 1px 60px;
+  cursor: pointer;
+}
+
+.btnSearch {
+  background-color: #F08080;
+  border: 2px solid White;
+  color: white;
+  width: 70px;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+
+  cursor: pointer;
+}
+
+.btnLimpar{
+	color: #00008B;
+}
+
+.btnDelete{
+	color: #FF0000;
+}
